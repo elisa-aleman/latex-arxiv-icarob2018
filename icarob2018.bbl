@@ -1,0 +1,60 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{sun2017}
+Y.~Sun, Y.~Wei, L.~Zhang, International academic impact of {Chinese} tourism
+  research: a review based on the analysis of {SSCI} tourism articles from 2001
+  to 2012, Tourism Management 58 (2017) 245--252.
+\newblock \href {http://dx.doi.org/10.1016/j.tourman.2016.03.008}
+  {\path{doi:10.1016/j.tourman.2016.03.008}}.
+
+\bibitem{truong2009}
+T.~Truong, B.~King, An evaluation of satisfaction levels among {Chinese}
+  tourists in {Vietnam}, International Journal Of Tourism Research 11~(6)
+  (2009) 521--535.
+\newblock \href {http://dx.doi.org/10.1002/jtr.726}
+  {\path{doi:10.1002/jtr.726}}.
+
+\bibitem{chang2010}
+R.~Chang, J.~Kivela, A.~Mak, Food preferences of {Chinese} tourists, Annals Of
+  Tourism Research 37~(4) (2010) 989--1011.
+\newblock \href {http://dx.doi.org/10.1016/j.annals.2010.03.007}
+  {\path{doi:10.1016/j.annals.2010.03.007}}.
+
+\bibitem{chang2008}
+P.~Chang, M.~Galley, C.~Manning,
+  \href{http://nlp.stanford.edu/pubs/acl-wmt08-cws.pdf}{Optimizing {Chinese}
+  word segmentation for machine translation performance}, in: Statmt '08
+  Proceedings Of The Third Workshop On Statistical Machine, Columbus,Ohio,USA,
+  2008, pp. 224--232.
+\newline\urlprefix\url{http://nlp.stanford.edu/pubs/acl-wmt08-cws.pdf}
+
+\bibitem{shannon1948}
+C.~Shannon, A mathematical theory of communication, Bell System Technical
+  Journal 27~(3) (1948) 279--423.
+\newblock \href {http://dx.doi.org/10.1002/j.1538-7305.1948.tb01338.x}
+  {\path{doi:10.1002/j.1538-7305.1948.tb01338.x}}.
+
+\bibitem{cortes1995}
+C.~Cortes, V.~Vapnik, Support-vector networks, Machine Learning 20~(3) (1995)
+  273--297.
+\newblock \href {http://dx.doi.org/10.1007/bf00994018}
+  {\path{doi:10.1007/bf00994018}}.
+
+\bibitem{kohavi1995}
+R.~Kohavi, A study of cross-validation and bootstrap for accuracy estimation
+  and model selection, International Joint Conference On Artificial
+  Intelligence 14 (1995) 2.
+
+\bibitem{powers2011}
+D.~Powers,
+  \href{http://www.flinders.edu.au/science_engineering/fms/School-CSEM/publications/tech_reps-research_artfcts/TRRA_2007.pdf}{Evaluation:
+  From precision, recall and f-measure to roc, informedness, markedness \&
+  correlation}, Journal Of Machine Learning Technologies 2~(1) (2011) 37--63.
+\newline\urlprefix\url{http://www.flinders.edu.au/science_engineering/fms/School-CSEM/publications/tech_reps-research_artfcts/TRRA_2007.pdf}
+
+\end{thebibliography}
